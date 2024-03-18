@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Jim+Nightshade&family=Rubik+Moonrocks&family=Zhi+Mang+Xing&display=swap');
+.insta h1
+{
+    font-family:zhi mang xing;
+}
+body
+{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-position: center;
+}
+.top
+{
+    outline-style: auto;
+    text-align: center;
+    height: 600px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 20px;
+    background: white;
+}
+
+.insta 
+{
+text-align: center;
+margin-top: 80px;
+font-style: oblique;
+}
+
+
+
+.pic input
+{
+
+    margin-top: 80px;
+    height: 21px;
+    width: 40%;
+    font-size: 13px;
+    font-family: cookie;
+  
+}
+
+.gana input
+{
+    margin-top: 10px;
+    height: 21px;
+    width: 40%;
+    font-size: 13px;
+    font-family: cookie;
+}
+.lucky button
+{
+    margin-top: 25px;
+    height: 37px;
+    width: 40%;
+    background: rgb(50, 50, 182);
+    color: white;
+    font-family: jim nightshade ;
+    font-size: 25px;
+}
+p
+{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.fb img
+{
+    width: 4%;
+    height: 30px;
+    margin-top: 20px;
+    
+}
+.fb b
+{
+    font-size: 28px;
+    margin-left: 10px;
+   
+}
+.pass p
+{
+    color: rgb(58, 139, 167);
+}
+.do
+{
+    text-align: center;
+    outline-width: 20%;
+    
+
+}
+.do a
+{
+    text-decoration: none;
+    font-family: jim nightshade ;
+}
+
